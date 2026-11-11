@@ -1,0 +1,14 @@
+# media stays local; transcripts and notes are committed
+inbox/*
+!inbox/.gitkeep
+meetings/*/media/
+meetings/*/renders/
+
+# app state (job queue, chat history, Remotion bundle cache)
+.data/
+
+node_modules/
+web/dist/
+*.tsbuildinfo
+.DS_Store
+__pycache__/

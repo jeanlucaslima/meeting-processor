@@ -1,0 +1,119 @@
+1
+00:00:00,000 --> 00:00:04,440
+Good morning everyone. This is the product planning meeting for the mobile app relaunch.
+
+2
+00:00:04,640 --> 00:00:10,200
+We have three topics today, the onboarding redesign, the payment provider, and the launch date.
+
+3
+00:00:10,860 --> 00:00:12,480
+Let's start with onboarding.
+
+4
+00:00:12,680 --> 00:00:17,720
+The current flow has seven screens and we lose about 40% of users before they finish.
+
+5
+00:00:18,240 --> 00:00:21,740
+I tested a shorter version with three screens last week.
+
+6
+00:00:22,060 --> 00:00:25,540
+Completion went from 60 to 82% in the prototype.
+
+7
+00:00:26,280 --> 00:00:27,620
+That's a big improvement.
+
+8
+00:00:27,960 --> 00:00:30,660
+So do we agree to ship the three screen onboarding?
+
+9
+00:00:31,360 --> 00:00:34,800
+Yes, I agree. Let's go with three screens.
+
+10
+00:00:35,780 --> 00:00:40,140
+Agreed. I will finish the final designs by Thursday and share them with engineering.
+
+11
+00:00:41,160 --> 00:00:43,880
+Great. Next topic, the payment provider.
+
+12
+00:00:44,160 --> 00:00:46,260
+We are choosing between Stripe and Adyen.
+
+13
+00:00:46,860 --> 00:00:51,940
+Adyen has lower fees for Brazil, but the integration would take about three more weeks.
+
+14
+00:00:52,260 --> 00:00:54,240
+Stripe we could integrate in one week.
+
+15
+00:00:54,240 --> 00:00:57,060
+I am worried about the fees long term.
+
+16
+00:00:57,380 --> 00:01:00,100
+Brazil is going to be our biggest market next year.
+
+17
+00:01:00,640 --> 00:01:02,940
+I don't think we can decide this today.
+
+18
+00:01:03,220 --> 00:01:08,740
+Daniel, can you prepare a cost comparison for 12 months, including the engineering time?
+
+19
+00:01:09,460 --> 00:01:12,980
+Sure. I will have the comparison ready by next Monday.
+
+20
+00:01:13,920 --> 00:01:15,740
+Last topic, the launch date.
+
+21
+00:01:16,040 --> 00:01:17,860
+Marketing wants March 15th.
+
+22
+00:01:18,400 --> 00:01:21,080
+March 15th is risky if we pick Adyen.
+
+23
+00:01:21,260 --> 00:01:23,380
+We would have almost no buffer for testing.
+
+24
+00:01:24,240 --> 00:01:26,840
+Then the launch date depends on the payment decision.
+
+25
+00:01:27,280 --> 00:01:29,620
+Let's not commit to March 15th yet.
+
+26
+00:01:30,200 --> 00:01:30,800
+Okay.
+
+27
+00:01:31,200 --> 00:01:35,320
+We keep March 15th as a target, but we confirm it after the payment decision.
+
+28
+00:01:35,660 --> 00:01:37,080
+I will tell marketing today.
+
+29
+00:01:37,540 --> 00:01:38,260
+Thanks, everyone.
+
+30
+00:01:38,680 --> 00:01:39,760
+See you next week.

@@ -1,0 +1,20 @@
+{
+  "name": "meeting-processor",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "web",
+    "server",
+    "video"
+  ],
+  "scripts": {
+    "dev": "concurrently -k -n api,web -c blue,magenta \"cd server && bun run dev\" \"cd web && bun run dev\"",
+    "build": "cd web && bun run build",
+    "start": "bun run build && cd server && bun run start",
+    "typecheck": "cd server && bun run typecheck && cd ../web && bun run typecheck && cd ../video && bun run typecheck",
+    "studio": "cd video && bun run studio"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.7"
+  }
+}

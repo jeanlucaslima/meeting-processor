@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:02,620
+Okay everyone, let's start the weekly sync.
+
+2
+00:00:02,880 --> 00:00:05,800
+Ana, can you give us the status on the billing migration?
+
+3
+00:00:06,140 --> 00:00:09,000
+Sure. The migration is about 80 % done.
+
+4
+00:00:09,260 --> 00:00:11,820
+We decided to move the cut over to next Friday.
+
+5
+00:00:12,240 --> 00:00:14,260
+Bruno will update the runbook by Wednesday.
+
+6
+00:00:14,640 --> 00:00:18,200
+One open question is whether we need to notify Enterprise customers.

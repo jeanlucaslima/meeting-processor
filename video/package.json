@@ -1,0 +1,22 @@
+{
+  "name": "@mp/video",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/google-fonts": "4.0.542",
+    "@remotion/zod-types": "4.0.542",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.542",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@remotion/cli": "4.0.542",
+    "@types/react": "^19.3.0",
+    "typescript": "~7.0.2"
+  }
+}
